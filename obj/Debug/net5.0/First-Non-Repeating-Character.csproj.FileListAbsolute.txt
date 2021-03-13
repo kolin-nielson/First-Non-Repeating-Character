@@ -1,0 +1,16 @@
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\First-Non-Repeating-Character.exe
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\First-Non-Repeating-Character.deps.json
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\First-Non-Repeating-Character.runtimeconfig.json
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\First-Non-Repeating-Character.runtimeconfig.dev.json
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\First-Non-Repeating-Character.dll
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\ref\First-Non-Repeating-Character.dll
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\bin\Debug\net5.0\First-Non-Repeating-Character.pdb
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.csprojAssemblyReference.cache
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.AssemblyInfoInputs.cache
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.AssemblyInfo.cs
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.csproj.CoreCompileInputs.cache
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.dll
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\ref\First-Non-Repeating-Character.dll
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.pdb
+C:\Users\Easton Reed\Desktop\Programs\First-Non-Repeating-Character\obj\Debug\net5.0\First-Non-Repeating-Character.genruntimeconfig.cache
